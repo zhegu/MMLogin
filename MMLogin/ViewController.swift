@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import MMNetworkManager
+//import MMNetworkManager
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
