@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         title = "测试"
+        
+        //冲突处理
     }
     
     override func didReceiveMemoryWarning() {
